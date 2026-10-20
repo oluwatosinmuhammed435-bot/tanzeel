@@ -1,0 +1,6 @@
+{
+  "name": "At-Tanzeel Success Academy",
+  "description": "Official institutional website and admission portal for At-Tanzeel Success Academy, Ore-Ofe Street, Jakan, Agbowo, Ibadan. Offering Creche, Nursery, Primary, and Secondary education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

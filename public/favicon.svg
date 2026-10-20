@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 130" fill="none">
+  <path d="M16 12 H104 L98 78 C95 98 60 110 60 110 C60 110 25 98 22 78 L16 12 Z" fill="#0A1F44" stroke="#FACC15" stroke-width="4"/>
+  <path d="M28 26 H92 L88 74 C86 88 60 97 60 97 C60 97 34 88 32 74 L28 26 Z" fill="#FFFFFF" stroke="#D91E2A" stroke-width="2"/>
+  <text x="60" y="22" text-anchor="middle" fill="#FACC15" font-size="8.5" font-family="Outfit, sans-serif" font-weight="800" letter-spacing="1">SUCCESS</text>
+  <path d="M38 66 Q49 62 60 66 Q71 62 82 66 L82 40 Q71 36 60 40 Q49 36 38 40 Z" fill="#FFFFFF" stroke="#15803D" stroke-width="2"/>
+  <line x1="60" y1="40" x2="60" y2="66" stroke="#15803D" stroke-width="1.5"/>
+  <path d="M55 46 A6 6 0 1 0 55 58 A4.8 4.8 0 1 1 55 46 Z" fill="#D91E2A"/>
+  <polygon points="67,48 68.2,51 71.5,51 68.8,52.8 69.8,56 67,54 64.2,56 65.2,52.8 62.5,51 65.8,51" fill="#D91E2A"/>
+  <text x="60" y="80" text-anchor="middle" fill="#15803D" font-size="9.5" font-family="Outfit, sans-serif" font-weight="800">A.S.A</text>
+  <text x="60" y="92" text-anchor="middle" fill="#0A1F44" font-size="7.5" font-family="Outfit, sans-serif" font-weight="800">IBADAN</text>
+</svg>
